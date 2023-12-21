@@ -1,0 +1,60 @@
+{
+  "episodes": [
+    {
+      "filename": "American.Dad.S01E01.Pilot.1080p.DSNP.WEBRip.DDP.5.1.H.265.-EDGE2020.mp4",
+      "epType": "st",
+      "segment": [
+        "00:08:51.649",
+        "00:14:55.919"
+      ]
+    },
+    {
+      "filename": "American.Dad.S01E02.Threat.Levels.1080p.DSNP.WEBRip.DDP.5.1.H.265.-EDGE2020.mp4",
+      "epType": "st",
+      "segment": [
+        "00:08:56.844",
+        "00:15:12.445"
+      ]
+    },
+    {
+      "filename": "American.Dad.S01E03.Stan.Knows.Best.1080p.DSNP.WEBRip.DDP.5.1.H.265.-EDGE2020.mp4",
+      "epType": "st",
+      "segment": [
+        "00:07:02.405",
+        "00:15:01.281"
+      ]
+    },
+    {
+      "filename": "American.Dad.S01E04.Francines.Flashback.1080p.DSNP.WEBRip.AAC.2.0.H.265.-EDGE2020.mp4",
+      "epType": "st",
+      "segment": [
+        "00:06:41.719",
+        "00:16:18.837"
+      ]
+    },
+    {
+      "filename": "American.Dad.S01E05.Roger.Codger.1080p.DSNP.WEBRip.DDP.5.1.H.265.-EDGE2020.mp4",
+      "epType": "st",
+      "segment": [
+        "00:08:01.120",
+        "00:15:50.154"
+      ]
+    },
+    {
+      "filename": "American.Dad.S01E06.Homeland.Insecurity.1080p.DSNP.WEBRip.DDP.5.1.H.265.-EDGE2020.mp4",
+      "epType": "st",
+      "segment": [
+        "00:07:56.789",
+        "00:18:10.249"
+      ]
+    },
+    {
+      "filename": "American.Dad.S01E07.Deacon.Stan.Jesus.Man.1080p.DSNP.WEBRip.DDP.5.1.H.265.-EDGE2020.mp4",
+      "epType": "st",
+      "segment": [
+        "00:07:54.085",
+        "00:14:24.384"
+      ]
+    }
+  ]
+}
