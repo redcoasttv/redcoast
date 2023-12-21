@@ -1,0 +1,84 @@
+{
+    "episodes": [
+        {
+            "filename": "The Eric Andre Show - S01E01 - George Clooney.mp4",
+            "epType": "st",
+            "segment": [
+                "00:00:00.000",
+                "00:00:00.000"
+            ]
+        },
+        {
+            "filename": "The Eric Andre Show - S01E02 - Rick Fox.mp4",
+            "epType": "st",
+            "segment": [
+                "00:00:00.000",
+                "00:00:00.000"
+            ]
+        },
+        {
+            "filename": "The Eric Andre Show - S01E03 - Tatyana Ali.mp4",
+            "epType": "st",
+            "segment": [
+                "00:00:00.000",
+                "00:00:00.000"
+            ]
+        },
+        {
+            "filename": "The Eric Andre Show - S01E04 - Brandi Glanville.mp4",
+            "epType": "st",
+            "segment": [
+                "00:00:00.000",
+                "00:00:00.000"
+            ]
+        },
+        {
+            "filename": "The Eric Andre Show - S01E05 - Reese Witherspoon.mp4",
+            "epType": "st",
+            "segment": [
+                "00:00:00.000",
+                "00:00:00.000"
+            ]
+        },
+        {
+            "filename": "The Eric Andre Show - S01E06 - Sinbad.mp4",
+            "epType": "st",
+            "segment": [
+                "00:00:00.000",
+                "00:00:00.000"
+            ]
+        },
+        {
+            "filename": "The Eric Andre Show - S01E07 - J-Moe.mp4",
+            "epType": "st",
+            "segment": [
+                "00:00:00.000",
+                "00:00:00.000"
+            ]
+        },
+        {
+            "filename": "The Eric Andre Show - S01E08 - Evangelos.mp4",
+            "epType": "st",
+            "segment": [
+                "00:00:00.000",
+                "00:00:00.000"
+            ]
+        },
+        {
+            "filename": "The Eric Andre Show - S01E09 - Jack.mp4",
+            "epType": "st",
+            "segment": [
+                "00:00:00.000",
+                "00:00:00.000"
+            ]
+        },
+        {
+            "filename": "The Eric Andre Show - S01E10 - Ryan Phillippe.mp4",
+            "epType": "st",
+            "segment": [
+                "00:00:00.000",
+                "00:00:00.000"
+            ]
+        }
+    ]
+}
